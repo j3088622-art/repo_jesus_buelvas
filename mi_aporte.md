@@ -1,0 +1,1 @@
+El comando más útil y frecuente de Git es git commit, el cual guarda de forma definitiva los cambios preparados en tu historial local
